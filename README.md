@@ -7,10 +7,10 @@ The objective of this project is to analyze and demonstrate the impact of COVID 
 COVID took us by surprise in 2020. While people were still trying to figure out what it was and how it was going to impact our life, it quickly turned into a global pandemic. On March 13, President Donald Trump declared the novel coronavirus a national emergency. On the same day, schools in Illinois were closed to in-person instruction. On March 20, JB Pritzker, Governor of the State of Illinois issued the ‘stay at home’ order for Illinois residents. It felt like the whole world was put on pause. It was not until December of 2020 when Pfizer and Moderna vaccines received the Emergency Use Authorization (EUA) from the U.S Food and Drug Administration (FDA) that people started to see some light at the end of the tunnel. Before COVID, there were already many people in the U.S. who lived in food-insecure households. After COVID hit the US like a cyclone, there were even more people who lost their jobs overnight, putting more families at risk for affording enough food. Long lines at food banks across the US were seen in the news everyday. The actual impact to the US economy and poor families at the macro level can be revealed from analyzing The US GDP data and snap program data.
 
 ## Technical Solution
-I used data science tools in Python including Pandas, Numpy, and Matplotlib. Coding and analysis were performed using Jupyter Notebook. Three sets of openly available data were used for the analysis:
-GDP Data - quarterly US GDP data published by FRED Economic Research (https://fred.stlouisfed.org/series/GDP)
-Supplemental Nutrition Assistance Program (SNAP) Data - monthly national level annual summary data published by the U.S. Department of Agriculture Food and Nutrition Service (https://fns-prod.azureedge.net/pd/supplemental-nutrition-assistance-program-snap)
-US Census Data - US population data published by the United States Census Bureau (https://www.census.gov/data)
+I used data science tools in Python including Pandas, Numpy, and Matplotlib. Coding and analysis were performed using Jupyter Notebook. Three sets of openly available data were used for the analysis:  
+GDP Data - quarterly US GDP data published by FRED Economic Research (https://fred.stlouisfed.org/series/GDP)  
+Supplemental Nutrition Assistance Program (SNAP) Data - monthly national level annual summary data published by the U.S. Department of Agriculture Food and Nutrition Service (https://fns-prod.azureedge.net/pd/supplemental-nutrition-assistance-program-snap)  
+US Census Data - US population data published by the United States Census Bureau (https://www.census.gov/data)  
 
 There are two major steps performed on this project: 
 

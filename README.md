@@ -19,14 +19,14 @@ There are two major steps performed on this project:
 Data was downloaded in the Excel format then loaded in DataFrames of Pandas. Using dataframes, I filtered for 2020 data then combined data from the three datasets into one. After that, I added a few analysis columns (such as calendar month, ratio, and percentage change) for further analysis and visualization. 
 
 ## Step 2 - Data Analysis
-The following analyses were performed using the consolidated dataframe and final results were presented in a visual format:
-1. Quarterly GDP (in Billions) and Percentage Change From the Prior Quarter in 2020
-This analysis shows that the US GDP dropped by 9.3% from Q1 to Q2, then increased by 8.5% from Q2 to Q3. Q4 GDP reached a level close to Q1 GDP.
+The following analyses were performed using the consolidated dataframe and final results were presented in a visual format:  
+1. Quarterly GDP (in Billions) and Percentage Change From the Prior Quarter in 2020  
+This analysis shows that the US GDP dropped by 9.3% from Q1 to Q2, then increased by 8.5% from Q2 to Q3. Q4 GDP reached a level close to Q1 GDP.  
 
-2. Number of People Enrolled in the SNAP Program and Percentage Change From the Prior Month
+2. Number of People Enrolled in the SNAP Program and Percentage Change From the Prior Month  
 This analysis shows that the number of people enrolled in the SNAP program increased by 10.22% in April and kept increasing in both May and June. The headcount started decreasing in June but at a very slow pace.
 
-3. Percentage of Benefit of Snap Program Over US GDP
+3. Percentage of Benefit of Snap Program Over US GDP  
 This analysis shows that, in Q1 before COVID, only 0.06% - 0.07% of the US GDP was used for the SNAP program. That percent doubled to 0.12% in Q2. In Q3, the percentage dropped by only 0.01% to 0.11% and stayed flat until the end of 2020.
 
 Additionally, the following statistical summaries are provided at the end to provide further support on the analysis results.  

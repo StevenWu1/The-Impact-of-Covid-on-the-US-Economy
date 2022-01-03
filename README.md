@@ -29,7 +29,7 @@ This analysis shows that the number of people enrolled in the SNAP program incre
 3. Percentage of Benefit of Snap Program Over US GDP
 This analysis shows that, in Q1 before COVID, only 0.06% - 0.07% of the US GDP was used for the SNAP program. That percent doubled to 0.12% in Q2. In Q3, the percentage dropped by only 0.01% to 0.11% and stayed flat until the end of 2020.
 
-Additionally, the following statistical summaries are provided at the end to provide further support on the analysis results.
+Additionally, the following statistical summaries are provided at the end to provide further support on the analysis results.  
 (a) Amount of SNAP benefits per month  
 (b) Amount of US GDP per month  
 (c) Count of people enrolled in SNAP per month  

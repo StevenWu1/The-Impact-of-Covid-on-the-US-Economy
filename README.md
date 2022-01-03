@@ -1,4 +1,4 @@
-# The Impact of Covid on the US Economy
+# The Impact of Covid on the US Economy and Food Insecurity
 
 The objective of this project is to analyze and demonstrate the impact of COVID on the economy and food insecurity issue in the US.
 

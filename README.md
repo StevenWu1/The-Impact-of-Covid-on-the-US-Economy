@@ -8,9 +8,9 @@ COVID took us by surprise in 2020. While people were still trying to figure out 
 
 ## Technical Solution
 I used data science tools in Python including Pandas, Numpy, and Matplotlib. Coding and analysis were performed using Jupyter Notebook. Three sets of openly available data were used for the analysis:  
-GDP Data - quarterly US GDP data published by FRED Economic Research (https://fred.stlouisfed.org/series/GDP)  
-Supplemental Nutrition Assistance Program (SNAP) Data - monthly national level annual summary data published by the U.S. Department of Agriculture Food and Nutrition Service (https://fns-prod.azureedge.net/pd/supplemental-nutrition-assistance-program-snap)  
-US Census Data - US population data published by the United States Census Bureau (https://www.census.gov/data)  
+(1) GDP Data - quarterly US GDP data published by FRED Economic Research (https://fred.stlouisfed.org/series/GDP)  
+(2) Supplemental Nutrition Assistance Program (SNAP) Data - monthly national level annual summary data published by the U.S. Department of Agriculture Food and Nutrition Service (https://fns-prod.azureedge.net/pd/supplemental-nutrition-assistance-program-snap)  
+(3) US Census Data - US population data published by the United States Census Bureau (https://www.census.gov/data)  
 
 There are two major steps performed on this project: 
 
@@ -30,11 +30,11 @@ This analysis shows that the number of people enrolled in the SNAP program incre
 This analysis shows that, in Q1 before COVID, only 0.06% - 0.07% of the US GDP was used for the SNAP program. That percent doubled to 0.12% in Q2. In Q3, the percentage dropped by only 0.01% to 0.11% and stayed flat until the end of 2020.
 
 Additionally, the following statistical summaries are provided at the end to provide further support on the analysis results.
-Amount of SNAP benefits per month
-Amount of US GDP per month
-Count of people enrolled in SNAP per month
-US population in 2020
-Percent of SNAP benefit over GDP per month
-Percent of people enrolled in SNAP over US population
-SNAP benefits percent of change from the prior month
-SNAP enrollment percent of change from the prior month
+(a) Amount of SNAP benefits per month
+(b) Amount of US GDP per month
+(c) Count of people enrolled in SNAP per month
+(d) US population in 2020
+(e) Percent of SNAP benefit over GDP per month
+(f) Percent of people enrolled in SNAP over US population
+(g) SNAP benefits percent of change from the prior month
+(h) SNAP enrollment percent of change from the prior month
